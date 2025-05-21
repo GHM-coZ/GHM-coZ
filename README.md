@@ -23,10 +23,14 @@ Estudante de Redes de Computadores no SENAI com foco em Backend e desenvolviment
 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,grafana,windows,linux,nginx,powershell,git,github,">
+  <img src="https://skillicons.dev/icons?i=aws,azure,grafana,windows,linux,nginx,powershell">
 
 </p>
 
+<p align="center">
+<img srv="">
+
+</p>
 
 
 
