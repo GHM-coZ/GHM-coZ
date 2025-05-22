@@ -33,4 +33,12 @@ Tech Stack
 </p>
 
 
+##
+Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA IN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?logo=cisco&labelColor=black&color=grey) | Cisco NetAcademy Introduction to Networks |
+| ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?logo=amazonwebservices&logoColor=orange&labelColor=black&color=grey) | AWS Academy Cloud Foundations |
+
 
